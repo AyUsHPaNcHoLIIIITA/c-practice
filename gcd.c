@@ -14,4 +14,4 @@ int main() {
     scanf("%d %d", &num1, &num2);
     printf("GCD of %d and %d is %d\n", num1, num2, gcd(num1, num2));
     return 0;
-}
+}//time complexity  is very high !!!
